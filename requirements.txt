@@ -59,7 +59,7 @@ PyAudio @ file:///C:/Python/Python37-32/Scripts/PyAudio-0.2.11-cp37-cp37m-win32.
 pycparser==2.19
 pycryptodome==3.9.0
 pycryptodomex==3.9.0
-Pygments==2.4.2
+Pygments==2.7.4
 PyInstaller==3.6
 pylint==2.5.2
 pyperclip==1.7.0
