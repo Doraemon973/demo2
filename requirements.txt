@@ -85,7 +85,7 @@ uritemplate.py==3.0.2
 urllib3==1.24.3
 utils==1.0.0
 virtualenv==20.0.17
-waitress==1.4.4
+waitress==2.1.1
 wcwidth==0.1.7
 Werkzeug==1.0.1
 word2number==1.1
